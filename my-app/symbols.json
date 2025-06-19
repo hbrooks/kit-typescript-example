@@ -1,0 +1,58 @@
+[
+  {
+    "name": "App",
+    "type": "function",
+    "start_line": 3,
+    "end_line": 3,
+    "code": "App",
+    "file": "/Users/hunter/workspace/ellipsis-dev/kit-typescript-example/my-app/src/App.js"
+  },
+  {
+    "name": "BackendApiError",
+    "type": "interface",
+    "start_line": 1,
+    "end_line": 1,
+    "code": "BackendApiError",
+    "file": "/Users/hunter/workspace/ellipsis-dev/kit-typescript-example/my-app/src/clients/EllipsisApiClient.ts"
+  },
+  {
+    "name": "BackendApiError",
+    "type": "interface",
+    "start_line": 1,
+    "end_line": 1,
+    "code": "BackendApiError",
+    "file": "/Users/hunter/workspace/ellipsis-dev/kit-typescript-example/my-app/src/clients/EllipsisApiClient.ts"
+  },
+  {
+    "name": "EllipsisApiClient",
+    "type": "class",
+    "start_line": 6,
+    "end_line": 6,
+    "code": "EllipsisApiClient",
+    "file": "/Users/hunter/workspace/ellipsis-dev/kit-typescript-example/my-app/src/clients/EllipsisApiClient.ts"
+  },
+  {
+    "name": "EllipsisApiClient",
+    "type": "class",
+    "start_line": 6,
+    "end_line": 6,
+    "code": "EllipsisApiClient",
+    "file": "/Users/hunter/workspace/ellipsis-dev/kit-typescript-example/my-app/src/clients/EllipsisApiClient.ts"
+  },
+  {
+    "name": "constructor",
+    "type": "method",
+    "start_line": 9,
+    "end_line": 9,
+    "code": "constructor",
+    "file": "/Users/hunter/workspace/ellipsis-dev/kit-typescript-example/my-app/src/clients/EllipsisApiClient.ts"
+  },
+  {
+    "name": "exampleApiCall",
+    "type": "method",
+    "start_line": 13,
+    "end_line": 13,
+    "code": "exampleApiCall",
+    "file": "/Users/hunter/workspace/ellipsis-dev/kit-typescript-example/my-app/src/clients/EllipsisApiClient.ts"
+  }
+]

@@ -1,0 +1,1 @@
+This project exists to communicate a bug in https://github.com/cased/kit
